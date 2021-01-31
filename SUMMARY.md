@@ -26,10 +26,10 @@
 
 * [bashはあなたの味方です](bash-ru-men-bian/bashhaanatanodesu.md)
 * [コマンドを打つ場所](bash-ru-men-bian/komandowotsu.md)
-* [bashの基本コマンド](bash-ru-men-bian/bashnokomando.md)
 * [特殊なディレクトリ名](bash-ru-men-bian/nadirekutori.md)
 
-## TypeScript <a id="tsx"></a>
+## 演習課題
 
-* [TypeScriptの紹介](tsx/typescriptno.md)
+* [演習課題01](yan-xi-ke-ti/yan-xi-ke-ti-01.md)
+* [演習課題02](yan-xi-ke-ti/yan-xi-ke-ti-02.md)
 
