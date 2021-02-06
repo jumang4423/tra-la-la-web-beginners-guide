@@ -32,4 +32,5 @@
 
 * [演習課題01](yan-xi-ke-ti/yan-xi-ke-ti-01.md)
 * [演習課題02](yan-xi-ke-ti/yan-xi-ke-ti-02.md)
+* [演習課題03](yan-xi-ke-ti/yan-xi-ke-ti-03.md)
 
